@@ -26,9 +26,12 @@ The AGG wheat collection is being genotyped with the Illumina Infinium Wheat Bar
 ### Barley
 The AGG barley collection is being genotyped with the Illumina Infinium Wheat Barley 40K SNP array.
 
-- 14th August 2024 - First batch of 13,989 AGG barley PGR genotypes released!
+- 14th August 2024 - First batch of 13,989 AGG barley PGR genotypes released: https://doi.org/10.7910/DVN/H6SNVM
 
 ### Chickpea
+The AGG chickpea collection is being genotyped with the Illumina Infinium Pulse 30K SNP array.
+
+- 3rd December 2024 - First batch of 11,071 AGG chickpea PGR genotypes released: https://doi.org/10.7910/DVN/SQFKJW
 
 ### Lentil
 
@@ -44,8 +47,12 @@ Source code for all digital tools developed by the Partnership are available on 
 
 ### Lamington
 
-## Community of Practice
-
 ### Shortbread2
 
 ### Brioche
+
+## Documentation and Training
+
+## Community of Practice
+
+
