@@ -19,17 +19,17 @@ Genotype datasets are made available on Harvard Dataverse under a CC BY 4.0 lice
 ***Total genotypes released to date***: 37,666
 
 ### Wheat
-The AGG wheat collection is being genotyped with the Illumina Infinium Wheat Barley 40K SNP array.
+The AGG wheat collection is being genotyped with the Illumina Infinium™ Wheat Barley 40K SNP array.
 
 - 22nd August 2024 - First batch of 12,606 AGG wheat PGR genotypes released: https://doi.org/10.7910/DVN/CRSI0B
 
 ### Barley
-The AGG barley collection is being genotyped with the Illumina Infinium Wheat Barley 40K SNP array.
+The AGG barley collection is being genotyped with the Illumina Infinium™ Wheat Barley 40K SNP array.
 
 - 14th August 2024 - First batch of 13,989 AGG barley PGR genotypes released: https://doi.org/10.7910/DVN/H6SNVM
 
 ### Chickpea
-The AGG chickpea collection is being genotyped with the Illumina Infinium Pulse 30K SNP array.
+The AGG chickpea collection is being genotyped with the Illumina Infinium™ Pulse 30K SNP array.
 
 - 3rd December 2024 - First batch of 11,071 AGG chickpea PGR genotypes released: https://doi.org/10.7910/DVN/SQFKJW
 
@@ -67,7 +67,7 @@ Shortbread2 is a Nextflow pipeline for calling SNPs from short read sequencing d
 
 ### Brioche (https://github.com/plantinformatics/brioche)
 
-Brioche is a Nextflow pipeline for the mapping of genotype array probes (such as from the Infinium SNP arrays being used in the Partnership) to determine genomic positions and REF/ALT alleles of markers. In addition, Brioche is able to in-silico genotype assemblies to enable the integration of pan genomes with AGG genotype data. See this in action in [User Story 3]](https://docs.plantinformatics.io/User-Stories/User-story-3/#reproducing-the-haplotype-classification-from-kuzay-et-al-2019)!
+Brioche is a Nextflow pipeline for the mapping of genotype array probes (such as from the Illumina Infinium™ SNP arrays being used in the Partnership) to determine genomic positions and REF/ALT alleles of markers. In addition, Brioche is able to in-silico genotype assemblies to enable the integration of pan genomes with AGG genotype data. See this in action in [User Story 3]](https://docs.plantinformatics.io/User-Stories/User-story-3/#reproducing-the-haplotype-classification-from-kuzay-et-al-2019)!
 
 ## Documentation and Training
 
