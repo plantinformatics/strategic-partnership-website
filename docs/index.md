@@ -37,6 +37,10 @@ The AGG chickpea collection is being genotyped with the Illumina Infinium™ Pul
 
 ___Coming soon!___
 
+### Lupin
+
+___Coming soon!___
+
 ## Digital tools
 
 Source code for all digital tools developed by the Partnership are available on Github: https://github.com/plantinformatics
