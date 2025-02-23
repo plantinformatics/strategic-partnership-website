@@ -4,6 +4,9 @@
 
 The AGG Strategic Partnership is a $30M joint investment between the Victorian State Government and Grains Research and Development Corporation (GRDC) that aims to unlock the genetic potential of plant genetic resources for the benefit of the Australian grain growers.
 
+![image](https://github.com/user-attachments/assets/ef8f92e0-de8c-4fb5-8d4b-e353988f9d9b)
+
+
 The AGG has the mandate to acquire, conserve, maintain and distribute genetic resources to plant breeders and researchers to underpin the development of more resilient and productive grain crop varieties for the benefit of the Australian grains industry.
 
 The AGG’s ultimate goal is to unlock the genetic potential of plant genetic resources for cereal, oilseed and pulse crops to underpin the development of high yielding, climate resilient crops that will benefit Australian grain growers.
@@ -42,6 +45,10 @@ ___Coming soon!___
 ___Coming soon!___
 
 ## Digital tools
+
+Digital tools are being developed to make the crop diversity within the AGG collection highly accessible to researchers and breeders, without the need for advanced bioinformatics skills.
+
+We are working with international partners to build the digital infrastructure required for the seamless integration of genebank genomics across genebanks.
 
 Source code for all digital tools developed by the Partnership are available on Github: https://github.com/plantinformatics
 
