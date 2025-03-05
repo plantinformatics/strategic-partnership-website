@@ -17,7 +17,7 @@ This page will be regularly updated with outputs from the Partnership, including
 
 ## Genotype data
 
-A core aim of the Partnership is the genetic characterisation of the AGG collection.
+A core aim of the Partnership is the genetic characterisation of the AGG collection. The crops being targeted for genotyping by the Partnership are: bread wheat, durum wheat, barley, chickpea, lentil, field pea, lupin, faba bean, oats, canola, mung bean, brassica, sorghum.
 
 Genotype datasets are made available on Harvard Dataverse under a CC BY 4.0 license: https://dataverse.harvard.edu/dataverse/australiangrainsgenebank-genotypedata
 
@@ -60,8 +60,6 @@ Pretzel is an interactive web application designed to enable rapid translation o
 
 The AGG-branded Pretzel instance (https://agg.plantinformatics.io/) is loaded with all the AGG genotype data as it is released, together with datasets to enable connection of the AGG to research and breeding knowledge. Click [here](https://agg.plantinformatics.io/signup) to create your free account and start using Pretzel today!
 
-![Pretzel_screenshot](https://github.com/user-attachments/assets/554294c5-4d9e-4900-b90b-074db6995921)
-
 ### Genolink (https://github.com/plantinformatics/genolink)
 
 Genolink is middleware that connects genebank PGR passport data stored in [Genesys-PGR](https://www.genesys-pgr.org/) with genotype data stored in BrAPI-compliant databases such as [Gigwa](https://gigwa.southgreen.fr/gigwa/).
@@ -83,6 +81,34 @@ Shortbread2 is a Nextflow pipeline for calling SNPs from short read sequencing d
 Brioche is a Nextflow pipeline for the mapping of genotype array probes (such as from the Illumina Infinium™ SNP arrays being used in the Partnership) to determine genomic positions and REF/ALT alleles of markers. In addition, Brioche is able to in-silico genotype assemblies to enable the integration of pan genomes with AGG genotype data. See this in action in [User Story 3]](https://docs.plantinformatics.io/User-Stories/User-story-3/#reproducing-the-haplotype-classification-from-kuzay-et-al-2019)!
 
 ## Documentation and Training
+
+Documentation is available at the [Pretzel documentation page](https://docs.plantinformatics.io/).
+
+The documentation is organised into three main sections:
+
+### User Stories
+
+These are worked examples structured around real breeding and research questions with step-by-step instructions on how to reproduce the analysis. We want these to be relevant to industry so if you have a suggestion, or would like to work on a User Story together, please get in touch.
+
+#### User Story 1 – [Identifying virus resistant PGRs using Pretzel](https://docs.plantinformatics.io/User-Stories/User-story-1/)
+
+![image](https://pretzel-images-public.s3.ap-southeast-2.amazonaws.com/user-stories/user-story-1/us-1-29.png)
+
+#### User Story 2 - [Filtering AGG wheat accessions for stripe rust resistance gene Yr34/Yr48](https://docs.plantinformatics.io/User-Stories/User-story-2/)
+
+![image](https://github.com/user-attachments/assets/554294c5-4d9e-4900-b90b-074db6995921)
+
+#### User Story 3 - [From SSRs to pan genomes with Pretzel: Two decades of wheat yield QTLs on chromosome 7A](https://docs.plantinformatics.io/User-Stories/User-story-3/)
+
+![image](https://github.com/user-attachments/assets/6279cd32-09d6-49f1-9fb2-5b23c57a2a13)
+
+### Use Cases
+
+[Use Cases](https://docs.plantinformatics.io/Use-Cases/Finding-a-marker-or-gene-on-a-genome/) are examples of specific ways Pretzel can be used. The basis for Use Cases can be proposals by industry or based on parts of User Stories.
+
+### Basic Functions
+
+[Basic Functions](https://docs.plantinformatics.io/Basic-Functions/Search-tab/) describe the layout of the Pretzel application and its core features.
 
 ## Community of Practice
 
