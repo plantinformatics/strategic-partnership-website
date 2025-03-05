@@ -60,6 +60,8 @@ Pretzel is an interactive web application designed to enable rapid translation o
 
 The AGG-branded Pretzel instance (https://agg.plantinformatics.io/) is loaded with all the AGG genotype data as it is released, together with datasets to enable connection of the AGG to research and breeding knowledge. Click [here](https://agg.plantinformatics.io/signup) to create your free account and start using Pretzel today!
 
+![image](https://github.com/user-attachments/assets/44aea8c0-4828-4510-b24b-8a40c4c69c78)
+
 ### Genolink (https://github.com/plantinformatics/genolink)
 
 Genolink is middleware that connects genebank PGR passport data stored in [Genesys-PGR](https://www.genesys-pgr.org/) with genotype data stored in BrAPI-compliant databases such as [Gigwa](https://gigwa.southgreen.fr/gigwa/).
