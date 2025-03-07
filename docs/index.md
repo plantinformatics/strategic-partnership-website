@@ -23,6 +23,8 @@ Genotype datasets are made available on Harvard Dataverse under a CC BY 4.0 lice
 
 ***Total genotypes released to date***: 37,666
 
+[How to access passport information for genotyped accessions.](#exporting-passport-information-for-genotyped-agg-accessions-from-genolink)
+
 ### Wheat
 The AGG wheat collection is being genotyped with the Illumina Infinium™ Wheat Barley 40K SNP array.
 
@@ -67,6 +69,28 @@ The AGG-branded Pretzel instance (https://agg.plantinformatics.io/) is loaded wi
 Genolink is middleware that connects genebank PGR passport data stored in [Genesys-PGR](https://www.genesys-pgr.org/) with genotype data stored in BrAPI-compliant databases such as [Gigwa](https://gigwa.southgreen.fr/gigwa/).
 
 ![image](https://github.com/user-attachments/assets/0ff58f54-deab-425f-a1ba-300574ab63c2)
+
+#### Exporting passport information for genotyped AGG accessions from Genolink
+
+1. Load [Genolink](https://genolink.plantinformatics.io/)
+
+2. By default, the AGG institute code ("AUS165") has been selected. In the left menu, click Crops and select the crop you want passport information for. For example, chickpea.
+
+![image](https://github.com/user-attachments/assets/c708ebde-3f47-464c-8708-7e627e647b41)
+
+4. (Optional) If you only want to export passport data for __genotyped accessions__, click the "Check for genotype" button at the bottom of the left panel.
+
+![image](https://github.com/user-attachments/assets/f4005923-1e8c-4b38-a657-13b42314dd0f)
+
+5. Click __Update Search__
+
+![image](https://github.com/user-attachments/assets/e9b2341e-80e8-437a-b148-86252d92aebe)
+
+7. Click __Export All Passport Data__
+
+![image](https://github.com/user-attachments/assets/eb113351-84ca-4b0e-a5f2-3fb5fe46ce3c)
+
+After a few moments, a TSV file with the passport data will be downloaded.
 
 ### Lamington (https://github.com/plantinformatics/lamington)
 
