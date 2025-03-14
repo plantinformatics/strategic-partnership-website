@@ -41,8 +41,9 @@ The AGG chickpea collection is being genotyped with the Illumina Infinium™ Pul
 - 3rd December 2024 - First batch of 11,071 AGG chickpea PGR genotypes released: https://doi.org/10.7910/DVN/SQFKJW
 
 ### Lentil
+The AGG lentil collection is being genotyped with the Illumina Infinium™ Pulse 30K SNP array.
 
-___Coming soon!___
+- 14th March 2025 - First batch of 6,308 AGG lentil PGR genotypes released: https://doi.org/10.7910/DVN/T0TDAS
 
 ### Lupin
 
