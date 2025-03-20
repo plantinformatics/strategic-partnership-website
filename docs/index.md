@@ -21,7 +21,7 @@ A core aim of the Partnership is the genetic characterisation of the AGG collect
 
 Genotype datasets are made available on Harvard Dataverse under a CC BY 4.0 license: https://dataverse.harvard.edu/dataverse/australiangrainsgenebank-genotypedata
 
-***Total genotypes released to date***: 37,666
+***Total genotypes released to date***: 43,974
 
 [How to access passport information for genotyped accessions.](#exporting-passport-information-for-genotyped-agg-accessions-from-genolink)
 
