@@ -39,11 +39,16 @@ The AGG barley collection is being genotyped with the Illumina Infinium™ Wheat
 The AGG chickpea collection is being genotyped with the Illumina Infinium™ Pulse 30K SNP array.
 
 - 3rd December 2024 - First batch of 11,071 AGG chickpea PGR genotypes released: https://doi.org/10.7910/DVN/SQFKJW
+- 5th May 2025 - Second batch of AGG chickpea PGR genotypes released, including 1,813 additional accessions: https://doi.org/10.7910/DVN/ECQ4NC 
 
 ### Lentil
 The AGG lentil collection is being genotyped with the Illumina Infinium™ Pulse 30K SNP array.
 
 - 14th March 2025 - First batch of 6,308 AGG lentil PGR genotypes released: https://doi.org/10.7910/DVN/T0TDAS
+
+### Field pea
+
+___Coming soon!___
 
 ### Lupin
 
@@ -150,8 +155,12 @@ The Partnership engages with the Australian grains industry through the Australi
 - 23rd July 2024 - Industry examples using AGG digital tools: An Introduction to User Stories
 - 17th September 2024 - User Story 2: Filtering AGG wheat accessions for stripe rust resistance gene Yr34/Yr48
 - 6th November 2024 – User Story 3: From SSRs to pan genomes with Pretzel: Two decades of wheat yield QTLs on chromosome 7A
+- 26th March 2025 - Making genotypic data interoperable: What is it, why is it important and how do you achieve it?
+- 28th May 2025 - Trait characterisation in Brassica and Oat
 
-- ___Coming in March 2025 - Introduction to Data Interoperability___
+- ___Coming in June 2025 - Hands on Data Interoperability examples___
+
+Slides and recordings of past sessions are available on request from adam.dimech@agriculture.vic.gov.au.
 
 If you are interested in receiving updates about upcoming Community of Practice sessions, please email adam.dimech@agriculture.vic.gov.au.
 
