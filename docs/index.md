@@ -21,7 +21,7 @@ A core aim of the Partnership is the genetic characterisation of the AGG collect
 
 Genotype datasets are made available on Harvard Dataverse under a CC BY 4.0 license: https://dataverse.harvard.edu/dataverse/australiangrainsgenebank-genotypedata
 
-***Total genotypes released to date***: 43,974
+***Total genotypes released to date***: 51,422
 
 [How to access passport information for genotyped accessions.](#exporting-passport-information-for-genotyped-agg-accessions-from-genolink)
 
@@ -47,8 +47,9 @@ The AGG lentil collection is being genotyped with the Illumina Infinium™ Pulse
 - 14th March 2025 - First batch of 6,308 AGG lentil PGR genotypes released: https://doi.org/10.7910/DVN/T0TDAS
 
 ### Field pea
+The AGG lentil collection is being genotyped with the Illumina Infinium™ Pulse 30K SNP array.
 
-___Coming soon!___
+- 8th August 2025 - First batch of 5,635 AGG field pea PGR genotypes released: https://doi.org/10.7910/DVN/A6WGYS
 
 ### Lupin
 
@@ -158,11 +159,20 @@ The Partnership engages with the Australian grains industry through the Australi
 - 26th March 2025 - Making genotypic data interoperable: What is it, why is it important and how do you achieve it?
 - 28th May 2025 - Trait characterisation in Brassica and Oat
 
-- ___Coming in June 2025 - Hands on Data Interoperability examples___
+- ___Next Community of Practice: 20th August 2025 - Linking genebank passport and genotype data with Genolink___
 
 Slides and recordings of past sessions are available on request from adam.dimech@agriculture.vic.gov.au.
 
 If you are interested in receiving updates about upcoming Community of Practice sessions, please email adam.dimech@agriculture.vic.gov.au.
+
+## Workshops
+
+- June 6th 2025 - Australasian Plant Breeding Conference 2025, Fremantle, Perth, Australia
+
+- ___Next workshop: 15th September 2025 - 8th International Food Legume Research Conference and 5th Australian Pulse Conference in Perth, Western Australia___
+- More details: https://www.iflrc-apc2025.com/pre-conference-workshops/
+
+Training materials from previous workshops is available here: https://docs.plantinformatics.io/Workshops/workshops/
 
 
 
