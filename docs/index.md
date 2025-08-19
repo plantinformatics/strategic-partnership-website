@@ -4,7 +4,7 @@
 
 ![GRDC-AGG-AgVic-logos](https://pretzel-images-public.s3.ap-southeast-2.amazonaws.com/agvic_grdc.svg)
 
-The AGG Strategic Partnership is a $30M joint investment between the Victorian State Government and Grains Research and Development Corporation (GRDC) that aims to unlock the genetic potential of plant genetic resources for the benefit of the Australian grain growers.
+The Australian Grains Genebank (AGG) Strategic Partnership is a $30M joint investment between the Victorian State Government and the Grains Research and Development Corporation (GRDC) that aims to unlock the genetic potential of plant genetic resources for the benefit of Australian grain growers.
 
 ![image](https://github.com/user-attachments/assets/ef8f92e0-de8c-4fb5-8d4b-e353988f9d9b)
 
