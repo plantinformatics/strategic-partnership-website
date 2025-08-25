@@ -28,28 +28,28 @@ Genotype datasets are made available on Harvard Dataverse under a CC BY 4.0 lice
 ### Wheat
 The AGG wheat collection is being genotyped with the Illumina Infinium™ Wheat Barley 40K SNP array.
 
-- 22nd August 2024 - First batch of 12,606 AGG wheat PGR genotypes released: https://doi.org/10.7910/DVN/CRSI0B
+- 22nd August 2024 - First batch of 12,606 AGG wheat PGR genotypes released: [https://doi.org/10.7910/DVN/CRSI0B](https://doi.org/10.7910/DVN/CRSI0B)
 
 ### Barley
 The AGG barley collection is being genotyped with the Illumina Infinium™ Wheat Barley 40K SNP array.
 
-- 14th August 2024 - First batch of 13,989 AGG barley PGR genotypes released: https://doi.org/10.7910/DVN/H6SNVM
+- 14th August 2024 - First batch of 13,989 AGG barley PGR genotypes released: [https://doi.org/10.7910/DVN/H6SNVM](https://doi.org/10.7910/DVN/H6SNVM)
 
 ### Chickpea
 The AGG chickpea collection is being genotyped with the Illumina Infinium™ Pulse 30K SNP array.
 
-- 3rd December 2024 - First batch of 11,071 AGG chickpea PGR genotypes released: https://doi.org/10.7910/DVN/SQFKJW
-- 5th May 2025 - Second batch of AGG chickpea PGR genotypes released, including 1,813 additional accessions: https://doi.org/10.7910/DVN/ECQ4NC 
+- 3rd December 2024 - First batch of 11,071 AGG chickpea PGR genotypes released: [https://doi.org/10.7910/DVN/SQFKJW](https://doi.org/10.7910/DVN/SQFKJW)
+- 5th May 2025 - Second batch of AGG chickpea PGR genotypes released, including 1,813 additional accessions: [https://doi.org/10.7910/DVN/ECQ4NC](https://doi.org/10.7910/DVN/ECQ4NC)
 
 ### Lentil
 The AGG lentil collection is being genotyped with the Illumina Infinium™ Pulse 30K SNP array.
 
-- 14th March 2025 - First batch of 6,308 AGG lentil PGR genotypes released: https://doi.org/10.7910/DVN/T0TDAS
+- 14th March 2025 - First batch of 6,308 AGG lentil PGR genotypes released: [https://doi.org/10.7910/DVN/T0TDAS](https://doi.org/10.7910/DVN/T0TDAS)
 
 ### Field pea
 The AGG lentil collection is being genotyped with the Illumina Infinium™ Pulse 30K SNP array.
 
-- 8th August 2025 - First batch of 5,635 AGG field pea PGR genotypes released: https://doi.org/10.7910/DVN/A6WGYS
+- 8th August 2025 - First batch of 5,635 AGG field pea PGR genotypes released: [https://doi.org/10.7910/DVN/A6WGYS](https://doi.org/10.7910/DVN/A6WGYS)
 
 ### Lupin
 
