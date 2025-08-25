@@ -63,15 +63,15 @@ We are working with international partners to build the digital infrastructure r
 
 Source code for all digital tools developed by the Partnership are available on Github: https://github.com/plantinformatics
 
-### Pretzel (https://github.com/plantinformatics/pretzel)
+### Pretzel (https://agg.plantinformatics.io/)
 
 Pretzel is an interactive web application designed to enable rapid translation of genomics outputs for any species into concrete answers to research and breeding questions.
 
-The AGG-branded Pretzel instance (https://agg.plantinformatics.io/) is loaded with all the AGG genotype data as it is released, together with datasets to enable connection of the AGG to research and breeding knowledge. Click [here](https://agg.plantinformatics.io/signup) to create your free account and start using Pretzel today!
+The [AGG-branded Pretzel instance](https://agg.plantinformatics.io/) is loaded with all the AGG genotype data as it is released, together with datasets to enable connection of the AGG to research and breeding knowledge. Click [here](https://agg.plantinformatics.io/signup) to create your free account and start using Pretzel today!
 
 ![image](https://github.com/user-attachments/assets/44aea8c0-4828-4510-b24b-8a40c4c69c78)
 
-### Genolink (https://github.com/plantinformatics/genolink)
+### Genolink (https://genolink.plantinformatics.io/)
 
 Genolink is middleware that connects genebank PGR passport data stored in [Genesys-PGR](https://www.genesys-pgr.org/) with genotype data stored in BrAPI-compliant databases such as [Gigwa](https://gigwa.southgreen.fr/gigwa/).
 
@@ -79,25 +79,7 @@ Genolink is middleware that connects genebank PGR passport data stored in [Genes
 
 #### Exporting passport information for genotyped AGG accessions from Genolink
 
-1. Load [Genolink](https://genolink.plantinformatics.io/)
-
-2. By default, the AGG institute code ("AUS165") has been selected. In the left menu, click Crops and select the crop you want passport information for. For example, chickpea.
-
-![image](https://github.com/user-attachments/assets/c708ebde-3f47-464c-8708-7e627e647b41)
-
-4. (Optional) If you only want to export passport data for __genotyped accessions__, click the "Check for genotype" button at the bottom of the left panel.
-
-![image](https://github.com/user-attachments/assets/f4005923-1e8c-4b38-a657-13b42314dd0f)
-
-5. Click __Update Search__
-
-![image](https://github.com/user-attachments/assets/e9b2341e-80e8-437a-b148-86252d92aebe)
-
-7. Click __Export All Passport Data__
-
-![image](https://github.com/user-attachments/assets/eb113351-84ca-4b0e-a5f2-3fb5fe46ce3c)
-
-After a few moments, a TSV file with the passport data will be downloaded.
+See the [Genolink documentation](https://docs.plantinformatics.io/Genolink/user-guide/#filtering-for-genotyped-accessions).
 
 ### Lamington (https://github.com/plantinformatics/lamington)
 
@@ -111,7 +93,7 @@ Shortbread2 is a Nextflow pipeline for calling SNPs from short read sequencing d
 
 ### Brioche (https://github.com/plantinformatics/brioche)
 
-Brioche is a Nextflow pipeline for the mapping of genotype array probes (such as from the Illumina Infinium™ SNP arrays being used in the Partnership) to determine genomic positions and REF/ALT alleles of markers. In addition, Brioche is able to in-silico genotype assemblies to enable the integration of pan genomes with AGG genotype data. See this in action in [User Story 3]](https://docs.plantinformatics.io/User-Stories/User-story-3/#reproducing-the-haplotype-classification-from-kuzay-et-al-2019)!
+Brioche is a Nextflow pipeline for the mapping of genotype array probes (such as from the Illumina Infinium™ SNP arrays being used in the Partnership) to determine genomic positions and REF/ALT alleles of markers. In addition, Brioche is able to in-silico genotype assemblies to enable the integration of pan genomes with AGG genotype data. See this in action in [User Story 3](https://docs.plantinformatics.io/User-Stories/User-story-3/#reproducing-the-haplotype-classification-from-kuzay-et-al-2019)!
 
 ## Documentation and Training
 
@@ -158,8 +140,9 @@ The Partnership engages with the Australian grains industry through the Australi
 - 6th November 2024 – User Story 3: From SSRs to pan genomes with Pretzel: Two decades of wheat yield QTLs on chromosome 7A
 - 26th March 2025 - Making genotypic data interoperable: What is it, why is it important and how do you achieve it?
 - 28th May 2025 - Trait characterisation in Brassica and Oat
+- 20th August 2025 - Linking genebank passport and genotype data with Genolink
 
-- ___Next Community of Practice: 20th August 2025 - Linking genebank passport and genotype data with Genolink___
+- ___Next Community of Practice: September 2025___
 
 Slides and recordings of past sessions are available on request from adam.dimech@agriculture.vic.gov.au.
 
