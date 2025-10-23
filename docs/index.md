@@ -142,7 +142,7 @@ The Partnership engages with the Australian grains industry through the Australi
 - 28th May 2025 - Trait characterisation in Brassica and Oat
 - 20th August 2025 - Linking genebank passport and genotype data with Genolink
 
-- ___Next Community of Practice: September 2025___
+- ___Next Community of Practice: 23rd October 2025 - Insights from Genotyping Core Crops in the Australian Grains Genebank___
 
 Slides and recordings of past sessions are available on request from adam.dimech@agriculture.vic.gov.au.
 
@@ -152,8 +152,7 @@ If you are interested in receiving updates about upcoming Community of Practice 
 
 - June 6th 2025 - Australasian Plant Breeding Conference 2025, Fremantle, Perth, Australia
 
-- ___Next workshop: 15th September 2025 - 8th International Food Legume Research Conference and 5th Australian Pulse Conference in Perth, Western Australia___
-- More details: https://www.iflrc-apc2025.com/pre-conference-workshops/
+- 15th September 2025 - 8th International Food Legume Research Conference and 5th Australian Pulse Conference in Perth, Western Australia
 
 Training materials from previous workshops is available here: https://docs.plantinformatics.io/Workshops/workshops/
 
