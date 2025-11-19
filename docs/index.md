@@ -21,7 +21,7 @@ A core aim of the Partnership is the genetic characterisation of the AGG collect
 
 Genotype datasets are made available on Harvard Dataverse under a CC BY 4.0 license: https://dataverse.harvard.edu/dataverse/australiangrainsgenebank-genotypedata
 
-***Total genotypes released to date***: 51,422
+***Total genotypes released to date***: 52,941
 
 [How to access passport information for genotyped accessions.](#exporting-passport-information-for-genotyped-agg-accessions-from-genolink)
 
@@ -52,8 +52,9 @@ The AGG lentil collection is being genotyped with the Illumina Infinium™ Pulse
 - 8th August 2025 - First batch of 5,635 AGG field pea PGR genotypes released: [https://doi.org/10.7910/DVN/A6WGYS](https://doi.org/10.7910/DVN/A6WGYS)
 
 ### Lupin
+The AGG lupin collection is being genotyped with the Illumina Infinium™ Pulse 30K SNP array.
 
-___Coming soon!___
+- 13th November 2025 - First batch of 1,519 AGG lupin PGR genotypes released: [https://doi.org/10.7910/DVN/FVTFIL](https://doi.org/10.7910/DVN/FVTFIL)
 
 ## Digital tools
 
