@@ -34,6 +34,7 @@ The AGG wheat collection is being genotyped with the Illumina Infinium™ Wheat 
 The AGG barley collection is being genotyped with the Illumina Infinium™ Wheat Barley 40K SNP array.
 
 - 14th August 2024 - First batch of 13,989 AGG barley PGR genotypes released: [https://doi.org/10.7910/DVN/H6SNVM](https://doi.org/10.7910/DVN/H6SNVM)
+- 30th April 2026 - Second release of AGG barley PGR genotypes released, including the full set of 27,242 genotyped accessions (note all accessions from the first release are included in this release): [https://doi.org/10.7910/DVN/LXU0WD](https://doi.org/10.7910/DVN/LXU0WD)
 
 ### Chickpea
 The AGG chickpea collection is being genotyped with the Illumina Infinium™ Pulse 30K SNP array.
@@ -81,6 +82,12 @@ Genolink is middleware that connects genebank PGR passport data stored in [Genes
 #### Exporting passport information for genotyped AGG accessions from Genolink
 
 See the [Genolink documentation](https://docs.plantinformatics.io/Genolink/user-guide/#filtering-for-genotyped-accessions).
+
+### FairyBread (https://fairybread.plantinformatics.io/)
+
+FairyBread enables genetic diversity in the AGG to be visualised and explored together with the passport data sourced from [Genesys-PGR](https://www.genesys-pgr.org/) via Genolink.
+
+![image](https://github.com/user-attachments/assets/ff2ffeae-4d5d-4618-ad28-26fe44d2cf14)
 
 ### Lamington (https://github.com/plantinformatics/lamington)
 
