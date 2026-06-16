@@ -21,7 +21,7 @@ A core aim of the Partnership is the genetic characterisation of the AGG collect
 
 Genotype datasets are made available on Harvard Dataverse under a CC BY 4.0 license: https://dataverse.harvard.edu/dataverse/australiangrainsgenebank-genotypedata
 
-***Total genotypes released to date***: 52,941
+***Total genotypes released to date***: 66,194
 
 [How to access passport information for genotyped accessions.](#exporting-passport-information-for-genotyped-agg-accessions-from-genolink)
 
@@ -149,8 +149,10 @@ The Partnership engages with the Australian grains industry through the Australi
 - 26th March 2025 - Making genotypic data interoperable: What is it, why is it important and how do you achieve it?
 - 28th May 2025 - Trait characterisation in Brassica and Oat
 - 20th August 2025 - Linking genebank passport and genotype data with Genolink
+- 23rd October 2025 - Insights from Genotyping Core Crops in the Australian Grains Genebank
+- 31st March 2026 - A FAIR data vision for the Australian grains industry
 
-- ___Next Community of Practice: 23rd October 2025 - Insights from Genotyping Core Crops in the Australian Grains Genebank___
+- ___Next Community of Practice: 18th June 2026 - Introducing the complete AGG barley collection: 27,242 genotypes, Beyond FAIR___
 
 Slides and recordings of past sessions are available on request from adam.dimech@agriculture.vic.gov.au.
 
@@ -161,6 +163,8 @@ If you are interested in receiving updates about upcoming Community of Practice 
 - June 6th 2025 - Australasian Plant Breeding Conference 2025, Fremantle, Perth, Australia
 
 - 15th September 2025 - 8th International Food Legume Research Conference and 5th Australian Pulse Conference in Perth, Western Australia
+
+- ___Upcoming workshop: 21st August 2026 - Australian Barley Technical Symposium, Geelong, Victoria___ Details [here](https://abts2026.com.au/post-symposium-workshop/).
 
 Training materials from previous workshops is available here: https://docs.plantinformatics.io/Workshops/workshops/
 
