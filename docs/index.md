@@ -21,7 +21,7 @@ A core aim of the Partnership is the genetic characterisation of the AGG collect
 
 Genotype datasets are made available on Harvard Dataverse under a CC BY 4.0 license: https://dataverse.harvard.edu/dataverse/australiangrainsgenebank-genotypedata
 
-***Total genotypes released to date***: 66,194
+***Total genotypes released to date***: 86,244
 
 [How to access passport information for genotyped accessions.](#exporting-passport-information-for-genotyped-agg-accessions-from-genolink)
 
@@ -29,6 +29,7 @@ Genotype datasets are made available on Harvard Dataverse under a CC BY 4.0 lice
 The AGG wheat collection is being genotyped with the Illumina Infinium™ Wheat Barley 40K SNP array.
 
 - 22nd August 2024 - First batch of 12,606 AGG wheat PGR genotypes released: [https://doi.org/10.7910/DVN/CRSI0B](https://doi.org/10.7910/DVN/CRSI0B)
+- 19th June 2026 - Second release of AGG wheat PGR genotypes released, including the full set of 32,656 genotyped accessions (note all accessions from the first release are included in this release): [https://doi.org/10.7910/DVN/MOBTA8](https://doi.org/10.7910/DVN/MOBTA8)
 
 ### Barley
 The AGG barley collection is being genotyped with the Illumina Infinium™ Wheat Barley 40K SNP array.
@@ -151,8 +152,7 @@ The Partnership engages with the Australian grains industry through the Australi
 - 20th August 2025 - Linking genebank passport and genotype data with Genolink
 - 23rd October 2025 - Insights from Genotyping Core Crops in the Australian Grains Genebank
 - 31st March 2026 - A FAIR data vision for the Australian grains industry
-
-- ___Next Community of Practice: 18th June 2026 - Introducing the complete AGG barley collection: 27,242 genotypes, Beyond FAIR___
+- 18th June 2026 - Introducing the complete AGG barley collection: 27,242 genotypes, Beyond FAIR
 
 Slides and recordings of past sessions are available on request from adam.dimech@agriculture.vic.gov.au.
 
