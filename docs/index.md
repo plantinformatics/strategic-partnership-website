@@ -31,9 +31,9 @@ The AGG wheat collection is being genotyped with the Illumina Infinium™ Wheat 
 - 22nd August 2024 - First batch of 12,606 AGG wheat PGR genotypes released: [https://doi.org/10.7910/DVN/CRSI0B](https://doi.org/10.7910/DVN/CRSI0B)
 - 19th June 2026 - Second release of AGG wheat PGR genotypes released, including the full set of 32,656 genotyped accessions (note all accessions from the first release are included in this release): [https://doi.org/10.7910/DVN/MOBTA8](https://doi.org/10.7910/DVN/MOBTA8)
 - 18th September 2026 - CAIGE bread wheat data released
-  - Two years of data for CAIGE accessions genotyped with the Illumina Infinium™ Wheat Barley 40K v1.1 SNP array, provided by InterGrain Pty Ltd: [https://doi.org/10.7910/DVN/SYYSDN](https://doi.org/10.7910/DVN/SYYSDN)
-  - Two years of data for CAIGE accessions genotyped by the AGG Strategic Partnership with the Illumina Infinium™ Wheat Barley 40K v1.2 SNP array: [https://doi.org/10.7910/DVN/7HVYFQ](https://doi.org/10.7910/DVN/7HVYFQ)
-  - CAIGE bread wheat disease core samples genotyped by the AGG Strategic Partnership with the Illumina Infinium™ Wheat Barley 40K v1.2 SNP array: [https://doi.org/10.7910/DVN/BI1HIU](https://doi.org/10.7910/DVN/BI1HIU)
+    - Two years of data for CAIGE accessions genotyped with the Illumina Infinium™ Wheat Barley 40K v1.1 SNP array, provided by InterGrain Pty Ltd: [https://doi.org/10.7910/DVN/SYYSDN](https://doi.org/10.7910/DVN/SYYSDN)
+    - Two years of data for CAIGE accessions genotyped by the AGG Strategic Partnership with the Illumina Infinium™ Wheat Barley 40K v1.2 SNP array: [https://doi.org/10.7910/DVN/7HVYFQ](https://doi.org/10.7910/DVN/7HVYFQ)
+    - CAIGE bread wheat disease core samples genotyped by the AGG Strategic Partnership with the Illumina Infinium™ Wheat Barley 40K v1.2 SNP array: [https://doi.org/10.7910/DVN/BI1HIU](https://doi.org/10.7910/DVN/BI1HIU)
 
 ### Barley
 The AGG barley collection is being genotyped with the Illumina Infinium™ Wheat Barley 40K SNP array.
@@ -41,8 +41,8 @@ The AGG barley collection is being genotyped with the Illumina Infinium™ Wheat
 - 14th August 2024 - First batch of 13,989 AGG barley PGR genotypes released: [https://doi.org/10.7910/DVN/H6SNVM](https://doi.org/10.7910/DVN/H6SNVM)
 - 30th April 2026 - Second release of AGG barley PGR genotypes released, including the full set of 27,242 genotyped accessions (note all accessions from the first release are included in this release): [https://doi.org/10.7910/DVN/LXU0WD](https://doi.org/10.7910/DVN/LXU0WD)
 - 25th September 2026 - CAIGE barley data released
-  - Two years of data for CAIGE accessions genotyped with the Illumina Infinium™ Wheat Barley 40K v1.1 SNP array, provided by InterGrain Pty Ltd: [https://doi.org/10.7910/DVN/AMFC6F](https://doi.org/10.7910/DVN/AMFC6F)
-  - Two years of data for CAIGE accessions genotyped by the AGG Strategic Partnership with the Illumina Infinium™ Wheat Barley 40K v1.2 SNP array: [https://doi.org/10.7910/DVN/NIPYNS](https://doi.org/10.7910/DVN/NIPYNS)
+    - Two years of data for CAIGE accessions genotyped with the Illumina Infinium™ Wheat Barley 40K v1.1 SNP array, provided by InterGrain Pty Ltd: [https://doi.org/10.7910/DVN/AMFC6F](https://doi.org/10.7910/DVN/AMFC6F)
+    - Two years of data for CAIGE accessions genotyped by the AGG Strategic Partnership with the Illumina Infinium™ Wheat Barley 40K v1.2 SNP array: [https://doi.org/10.7910/DVN/NIPYNS](https://doi.org/10.7910/DVN/NIPYNS)
 
 ### Chickpea
 The AGG chickpea collection is being genotyped with the Illumina Infinium™ Pulse 30K SNP array.
