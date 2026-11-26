@@ -21,7 +21,7 @@ A core aim of the Partnership is the genetic characterisation of the AGG collect
 
 Genotype datasets are made available on Harvard Dataverse under a CC BY 4.0 license: https://dataverse.harvard.edu/dataverse/australiangrainsgenebank-genotypedata
 
-***Total genotypes released to date***: 88,438
+***Total genotypes released to date***: 90,411
 
 [How to access passport information for genotyped accessions.](#exporting-passport-information-for-genotyped-agg-accessions-from-genolink)
 
@@ -64,6 +64,12 @@ The AGG lentil collection is being genotyped with the Illumina Infinium™ Pulse
 The AGG lupin collection is being genotyped with the Illumina Infinium™ Pulse 30K SNP array.
 
 - 13th November 2025 - First batch of 1,519 AGG lupin PGR genotypes released: [https://doi.org/10.7910/DVN/FVTFIL](https://doi.org/10.7910/DVN/FVTFIL)
+
+### Mungbean
+The AGG mungbean collection is being genotyped with DArTseq.
+
+- 10th November 2026 - 1,973 AGG mungbean PGR genotypes released: [https://doi.org/10.7910/DVN/FPM73V](https://doi.org/10.7910/DVN/FPM73V)
+
 
 ## Digital tools
 
@@ -160,6 +166,7 @@ The Partnership engages with the Australian grains industry through the Australi
 - 23rd October 2025 - Insights from Genotyping Core Crops in the Australian Grains Genebank
 - 31st March 2026 - A FAIR data vision for the Australian grains industry
 - 18th June 2026 - Introducing the complete AGG barley collection: 27,242 genotypes, Beyond FAIR
+- 28th October 2026 - AGG online portal change: Using Genysys to search for and request germplasm
 
 Slides and recordings of past sessions are available on request from adam.dimech@agriculture.vic.gov.au.
 
@@ -173,7 +180,7 @@ If you are interested in receiving updates about upcoming Community of Practice 
 
 - 21st August 2026 - Australian Barley Technical Symposium, Geelong, Victoria
 
-Training materials from previous workshops is available here: https://docs.plantinformatics.io/Workshops/workshops/
+Training materials from previous workshops are available here: [https://docs.plantinformatics.io/Workshops/workshops/](https://docs.plantinformatics.io/Workshops/workshops/)
 
 
 
